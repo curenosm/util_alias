@@ -1,4 +1,3 @@
 #!/bin/bash
 
-alias list="ls -al --group-directories-first --color"
-alia
+echo "alias ll='ls -al --group-directories-first --color'" >> ~/.bashrc
