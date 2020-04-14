@@ -13,3 +13,5 @@ echo "alias gpuo='git pull origin'" >> ~/.bashrc
 echo "alias gpo='git push origin'" >> ~/.bashrc
 
 echo "alias whichservice='sudo netstat -ltnp | grep -w'" >> ~/.bashrc
+
+echo "alias dcxweb='docker-compose exec web'" >> ~/.bashrc 
