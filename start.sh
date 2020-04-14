@@ -11,3 +11,5 @@ echo "alias gaa='git add -A'" >> ~/.bashrc
 echo "alias gcm='git commit -m'" >> ~/.bashrc
 echo "alias gpuo='git pull origin'" >> ~/.bashrc
 echo "alias gpo='git push origin'" >> ~/.bashrc
+
+echo "alias whichservice='sudo netstat -ltnp | grep -w'" >> ~/.bashrc
