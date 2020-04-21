@@ -18,9 +18,9 @@ echo "alias whichservice='sudo netstat -ltnp | grep -w'" >> ~/.bashrc
 # Docker and docker-compose alias
 echo "alias dcxweb='docker-compose exec web'" >> ~/.bashrc
 echo "alias dcub='docker-compose up --build'" >> ~/.bashrc
-echo "alias dipa='docker image prune -a" >> ~/.bashrc
+echo "alias dipa='docker image prune -a'" >> ~/.bashrc
 echo "alias dcdv='docker-compose down --volumes'" >> ~/.bashrc
-echo "alias drma='docker rm $(docker ps -a -q)'" >> ~/.bashrc
+echo "alias drm='docker rm" >> ~/.bashrc
 
 # Colors
 echo "" >> ~/.bashrc
