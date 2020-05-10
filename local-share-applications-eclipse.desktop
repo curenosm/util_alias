@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Eclipse
+Comment=Java IDE
+Type=Application
+Categories=Development;IDE;
+Exec=/home/ubuntu/eclipse/jee-2020-03/eclipse/eclipse
+Terminal=false
+StartupNotify=true
+Icon=/home/ubuntu/eclipse/jee-2020-03/eclipse/icon.xpm
+Name[en_US]=Eclipse
