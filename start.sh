@@ -20,7 +20,7 @@ echo "alias dcxweb='docker-compose exec web'" >> ~/.bashrc
 echo "alias dcub='docker-compose up --build'" >> ~/.bashrc
 echo "alias dipa='docker image prune -a'" >> ~/.bashrc
 echo "alias dcdv='docker-compose down --volumes'" >> ~/.bashrc
-echo "alias drm='docker rm" >> ~/.bashrc
+echo "alias drm='docker rm'" >> ~/.bashrc
 
 # Colors
 echo "" >> ~/.bashrc
